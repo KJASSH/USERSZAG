@@ -1,3 +1,11 @@
 {
-  "admins": []
+  "admins": [
+    {
+      "jogador": "Luangabry5",
+      "tempo": "30d",
+      "liberadoPor": "_1cardoso062",
+      "liberadoEm": "2026-04-11T07:50:47.259Z",
+      "atualizadoEm": "2026-04-11T07:50:47.259Z"
+    }
+  ]
 }
