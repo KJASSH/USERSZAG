@@ -1,67 +1,25 @@
-return {
-  "admins": [
-    {
-      "jogador": "PierreFSGamer1a",
-      "tempo": "permanente",
-      "liberadoPor": "sistema",
-      "liberadoEm": "2026-04-11T07:54:53.786Z",
-      "atualizadoEm": "2026-04-11T07:54:53.787Z"
-    },
-    {
-      "jogador": "ihodips890",
-      "tempo": "permanente",
-      "liberadoPor": "sistema",
-      "liberadoEm": "2026-04-11T07:54:53.787Z",
-      "atualizadoEm": "2026-04-11T07:54:53.787Z"
-    },
-    {
-      "jogador": "DawnDillon90",
-      "tempo": "permanente",
-      "liberadoPor": "sistema",
-      "liberadoEm": "2026-04-11T07:54:53.787Z",
-      "atualizadoEm": "2026-04-11T07:54:53.787Z"
-    },
-    {
-      "jogador": "NEXUSHUB2025",
-      "tempo": "permanente",
-      "liberadoPor": "sistema",
-      "liberadoEm": "2026-04-11T07:54:53.787Z",
-      "atualizadoEm": "2026-04-11T07:54:53.787Z"
-    },
-    {
-      "jogador": "grabriel_9990",
-      "tempo": "permanente",
-      "liberadoPor": "sistema",
-      "liberadoEm": "2026-04-11T07:54:53.787Z",
-      "atualizadoEm": "2026-04-11T07:54:53.787Z"
-    },
-    {
-      "jogador": "teteuziinhoh",
-      "tempo": "permanente",
-      "liberadoPor": "sistema",
-      "liberadoEm": "2026-04-11T07:54:53.787Z",
-      "atualizadoEm": "2026-04-11T07:54:53.787Z"
-    },
-    {
-      "jogador": "INC0MUUUU90",
-      "tempo": "permanente",
-      "liberadoPor": "sistema",
-      "liberadoEm": "2026-04-11T07:54:53.787Z",
-      "atualizadoEm": "2026-04-11T07:54:53.787Z"
-    },
-    {
-      "jogador": "bloodaideea5",
-      "tempo": "permanente",
-      "liberadoPor": "sistema",
-      "liberadoEm": "2026-04-11T07:54:53.787Z",
-      "atualizadoEm": "2026-04-11T07:54:53.787Z"
-    },
-    {
-      "jogador": "Luangabry5",
-      "tempo": "1h",
-      "liberadoPor": "_1cardoso062",
-      "liberadoEm": "2026-04-11T07:56:04.310Z",
-      "atualizadoEm": "2026-04-11T07:56:04.310Z"
+      return {
+    admins = {
+        {
+            jogador = "PierreFSGamer1a",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T07:54:53",
+            atualizadoEm = "2026-04-11T07:54:53"
+        },
+        {
+            jogador = "ihodips890",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T07:54:53",
+            atualizadoEm = "2026-04-11T07:54:53"
+        },
+        {
+            jogador = "Luangabry5",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T07:54:53",
+            atualizadoEm = "2026-04-11T07:54:53"
+        }
     }
-  ]
 }
