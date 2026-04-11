@@ -1,11 +1,11 @@
-return {
-    "PierreFSGamer1a",
-    "ihodips890",
-    "DawnDillon90",
-    "NEXUSHUB2025",
-    "grabriel_9990",
-    "teteuziinhoh",
-    "INC0MUUUU90",
-    "bloodaideea5",
+{
+  "admins": [
+    {
+      "jogador": "luangabry5",
+      "tempo": "1h",
+      "liberadoPor": "_1cardoso062",
+      "liberadoEm": "2026-04-11T07:36:36.189Z",
+      "atualizadoEm": "2026-04-11T07:36:36.190Z"
+    }
+  ]
 }
-
