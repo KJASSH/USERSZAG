@@ -1,25 +1,11 @@
-      return {
-    admins = {
-        {
-            jogador = "PierreFSGamer1a",
-            tempo = "permanente",
-            liberadoPor = "sistema",
-            liberadoEm = "2026-04-11T07:54:53",
-            atualizadoEm = "2026-04-11T07:54:53"
-        },
-        {
-            jogador = "ihodips890",
-            tempo = "permanente",
-            liberadoPor = "sistema",
-            liberadoEm = "2026-04-11T07:54:53",
-            atualizadoEm = "2026-04-11T07:54:53"
-        },
-        {
-            jogador = "DawnDillon90",
-            tempo = "permanente",
-            liberadoPor = "sistema",
-            liberadoEm = "2026-04-11T07:54:53",
-            atualizadoEm = "2026-04-11T07:54:53"
-        }
+{
+  "admins": [
+    {
+      "jogador": "Luangabry5",
+      "tempo": "1h",
+      "liberadoPor": "_1cardoso062",
+      "liberadoEm": "2026-04-11T08:34:37.044Z",
+      "atualizadoEm": "2026-04-11T08:34:37.044Z"
     }
+  ]
 }
