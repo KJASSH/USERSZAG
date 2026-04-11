@@ -1,11 +1,60 @@
-{
-  "admins": [
-    {
-      "jogador": "Luangabry5",
-      "tempo": "1h",
-      "liberadoPor": "_1cardoso062",
-      "liberadoEm": "2026-04-11T08:34:37.044Z",
-      "atualizadoEm": "2026-04-11T08:34:37.044Z"
+return {
+    admins = {
+        {
+            jogador = "PierreFSGamer1a",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T09:10:08.667Z",
+            atualizadoEm = "2026-04-11T09:10:08.667Z"
+        },
+        {
+            jogador = "ihodips890",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T09:10:08.667Z",
+            atualizadoEm = "2026-04-11T09:10:08.668Z"
+        },
+        {
+            jogador = "DawnDillon90",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T09:10:08.668Z",
+            atualizadoEm = "2026-04-11T09:10:08.668Z"
+        },
+        {
+            jogador = "NEXUSHUB2025",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T09:10:08.668Z",
+            atualizadoEm = "2026-04-11T09:10:08.668Z"
+        },
+        {
+            jogador = "grabriel_9990",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T09:10:08.668Z",
+            atualizadoEm = "2026-04-11T09:10:08.668Z"
+        },
+        {
+            jogador = "teteuziinhoh",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T09:10:08.668Z",
+            atualizadoEm = "2026-04-11T09:10:08.668Z"
+        },
+        {
+            jogador = "INC0MUUUU90",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T09:10:08.668Z",
+            atualizadoEm = "2026-04-11T09:10:08.668Z"
+        },
+        {
+            jogador = "bloodaideea5",
+            tempo = "permanente",
+            liberadoPor = "sistema",
+            liberadoEm = "2026-04-11T09:10:08.668Z",
+            atualizadoEm = "2026-04-11T09:10:08.668Z"
+        }
     }
-  ]
 }
