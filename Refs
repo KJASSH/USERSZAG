@@ -55,6 +55,13 @@ return {
             liberadoPor = "sistema",
             liberadoEm = "2026-04-11T09:10:08.668Z",
             atualizadoEm = "2026-04-11T09:10:08.668Z"
+        },
+        {
+            jogador = "Luangabry5",
+            tempo = "7d",
+            liberadoPor = "_1cardoso062",
+            liberadoEm = "2026-04-12T03:03:02.664Z",
+            atualizadoEm = "2026-04-12T03:03:02.664Z"
         }
     }
 }
