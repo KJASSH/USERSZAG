@@ -55,6 +55,13 @@ return {
             liberadoPor = "sistema",
             liberadoEm = "2026-04-11T09:10:08.668Z",
             atualizadoEm = "2026-04-11T09:10:08.668Z"
+        },
+        {
+            jogador = "moonuserdev",
+            tempo = "permanente",
+            liberadoPor = "_1cardoso062",
+            liberadoEm = "2026-04-13T18:16:37.689361+00:00",
+            atualizadoEm = "2026-04-13T18:16:37.689361+00:00"
         }
     }
 }
