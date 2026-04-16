@@ -10,9 +10,9 @@ return {
         {
             jogador = "ihodips890",
             tempo = "permanente",
-            liberadoPor = "sistema",
+            liberadoPor = "exilitywins",
             liberadoEm = "2026-04-11T09:10:08.667Z",
-            atualizadoEm = "2026-04-11T09:10:08.668Z"
+            atualizadoEm = "2026-04-16T00:43:45.262265+00:00"
         },
         {
             jogador = "DawnDillon90",
